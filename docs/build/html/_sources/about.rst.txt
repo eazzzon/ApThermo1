@@ -5,7 +5,7 @@ pyAp is a python package for calculating magmatic volatile, trace element concen
 Code authors: Weiran Li (University of Cambridge, U.K.) & Yishen Zhang (KU Leuven, Belgium) 
 
 Introduction
-#########
+#############################################
 
 pyAp includes multiple apatite-based models developed by W. Li and co-authors, including:
 
@@ -25,7 +25,7 @@ pyAp includes multiple apatite-based models developed by W. Li and co-authors, i
 * More modules will be added in the future (ApTimer - Li et al. 2020 EPSL; ApZone - Li et al. in prep). 
 
 Citing pyAp
-#########
+#######################################
 If this package enables or aids your research please cite the relevant publications for:
 
 **ApThermo**:

@@ -5,4 +5,3 @@ scipy
 seaborn
 ipykernel
 nbsphinx
-myst_parser
